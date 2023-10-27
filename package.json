@@ -1,0 +1,40 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@popperjs/core": "^2.11.6",
+        "@vitejs/plugin-vue": "^4.0.0",
+        "axios": "^1.1.2",
+        "bootstrap": "^5.2.3",
+        "laravel-vite-plugin": "^0.8.0",
+        "sass": "^1.56.1",
+        "vite": "^4.0.0",
+        "vue": "^3.2.37"
+    },
+    "dependencies": {
+        "@azure/core-http": "^3.0.3",
+        "@azure/msal-browser": "^3.3.0",
+        "@azure/storage-blob": "^12.16.0",
+        "@babel/eslint-parser": "^7.22.15",
+        "@fortawesome/fontawesome-svg-core": "^6.4.2",
+        "@fortawesome/free-solid-svg-icons": "^6.4.2",
+        "@fortawesome/vue-fontawesome": "^3.0.3",
+        "@vue/cli-plugin-babel": "^5.0.8",
+        "@vue/cli-plugin-eslint": "^5.0.8",
+        "@vue/cli-service": "^5.0.8",
+        "@vue/compiler-sfc": "^3.3.7",
+        "babel-eslint": "^10.1.0",
+        "bulma": "^0.9.4",
+        "core-js": "^3.33.1",
+        "eslint": "^8.52.0",
+        "eslint-plugin-vue": "^9.18.0",
+        "node-sass": "^9.0.0",
+        "sass-loader": "^13.3.2",
+        "tiny-emitter": "^2.1.0",
+        "vuex": "^4.0.2"
+    }
+}
